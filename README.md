@@ -6,7 +6,7 @@ Building with 4 sides of receiving
 
 ## CheckList
 Cloud
-- [ ] Food dist, package, deliv
+- [ ] food dist, package, deliv
 - [ ] interconnected owner node
 
 Local
