@@ -10,7 +10,7 @@ Cloud
 - [ ] interconnected owner node
 
 Local
-- [ ] per store owner node (main host)
+- [x] per store owner node (main host)
 - [ ] exterior node
   - [ ] traffic
   - [ ] ordertake
