@@ -15,6 +15,6 @@ Local
   - [ ] traffic
   - [ ] ordertake
 - [ ] interior node
-  - [ ] breeder thermal reactor
+  - [ ] reactor
   - [ ] worker
   - [ ] refresher
