@@ -11,10 +11,10 @@ Cloud
 
 Local
 - [x] per store owner node (main host)
+- [ ] reactor
 - [ ] exterior node
   - [ ] traffic
   - [ ] ordertake
 - [ ] interior node
-  - [ ] reactor
   - [ ] worker
   - [ ] refresher
