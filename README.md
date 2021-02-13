@@ -11,7 +11,7 @@ Cloud
 
 Local
 - [x] per store owner node (main host)
-- [ ] reactor
+- [x] reactor
 - [ ] exterior node
   - [ ] traffic
   - [ ] ordertake
