@@ -1,20 +1,25 @@
-# automated-restaurant-framework
-Automated intelligence workers for food service.
+# automated-nodes-framework
+Automated framework AI & management panel for any service.
 
-Building with 4 sides of receiving
+This is a universal framework that can be applied to any business that utilizes automated machinery.
 
 
 ## CheckList
 Cloud
-- [ ] food dist, package, deliv
 - [ ] interconnected owner node
+- [ ] distribution, packages, delivery
+- [ ] overview status
+- [ ] permissions/user accounts
+- [ ] auth w/metamask
 
 Local
-- [x] per store owner node (main host)
-- [x] reactor
+- [x] per store owner node
+- [x] utilities
 - [ ] exterior node
   - [ ] traffic
   - [ ] ordertake
+   - [ ] order placement
 - [ ] interior node
-  - [ ] worker
+  - [ ] manager
+  - [ ] worker nodes
   - [ ] refresher
